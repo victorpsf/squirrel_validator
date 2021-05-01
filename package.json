@@ -1,0 +1,26 @@
+{
+  "name": "squirrel_validator",
+  "version": "1.0.0",
+  "description": "json validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victorpsf/squirrel_validator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "json-validator"
+  ],
+  "author": "Victorpsf <victorpsf2@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Victorpsf/squirrel_validator/issues"
+  },
+  "homepage": "https://github.com/Victorpsf/squirrel_validator#readme",
+  "devDependencies": {
+    "squirrel_util": "^1.0.1"
+  }
+}
